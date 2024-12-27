@@ -1,0 +1,19 @@
+#%Module
+module-whatis	 "Loads OpenCV/4.10.0 module.
+
+This module was built on Mon Dec 23 10:51:39 AM EST 2024
+
+OpenCV (https://opencv.org/) is a compute vision library.
+
+The script used to build this module can be found here: https://github.com/northeastern-rc-software-modules/OpenCV-4.10.0
+
+To load the module, type:
+module load OpenCV/4.10.0
+
+"
+
+conflict	 OpenCV
+prepend-path	 PATH /shared/EL9/explorer/OpenCV/4.10.0/bin
+prepend-path	 LD_LIBRARY_PATH /shared/EL9/explorer/OpenCV/4.10.0/lib64
+prepend-path	 LIBRARY_PATH /shared/EL9/explorer/OpenCV/4.10.0/lib64
+prepend-path	 CPATH /shared/EL9/explorer/OpenCV/4.10.0/include
