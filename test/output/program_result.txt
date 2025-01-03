@@ -1,0 +1,1 @@
+/var/spool/slurmd/job03918/slurm_script: line 19: ./src/test_opencv: No such file or directory
