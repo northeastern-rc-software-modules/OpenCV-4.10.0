@@ -1,0 +1,8 @@
+========================================================
+Test Case: Compile C++ Program to Test OpenCV
+Job ID: 3917
+Node: d0004
+Start Time: Fri Jan  3 05:25:03 PM EST 2025
+========================================================
+Failed to compile the C++ program. Check output/compile_result.txt for details.
+End Time: Fri Jan  3 05:25:03 PM EST 2025

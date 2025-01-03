@@ -1,0 +1,8 @@
+========================================================
+Test Case: Run Compiled Program
+Job ID: 3918
+Node: d0005
+Start Time: Fri Jan  3 05:25:03 PM EST 2025
+========================================================
+Program execution failed. Check output/program_result.txt for details.
+End Time: Fri Jan  3 05:25:03 PM EST 2025
